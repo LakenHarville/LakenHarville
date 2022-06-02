@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LakenHarville
-- 👀 I’m interested in weightlifting and cars.
-- 🌱 I’m currently learning software development.
-- 💞️ I’m looking to collaborate on projects where I can learn a lot about programming.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently working on learning SQL.
+- 💞️ I’m looking to collaborate on projects where I can learn more about programming.
 - 📫 How to reach me best would be my email, rlakenharville@gmail.com
 
 <!---
