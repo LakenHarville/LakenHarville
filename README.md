@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LakenHarville
 - 👀 I’m interested in software development.
-- 🌱 I’m currently working on learning SQL.
+- 🌱 I’m currently becoming familiar with APIs, JSON, and HTML.
 - 💞️ I’m looking to collaborate on projects where I can learn more about programming.
 - 📫 How to reach me best would be my email, rlakenharville@gmail.com
 
